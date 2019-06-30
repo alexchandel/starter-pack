@@ -1,3 +1,36 @@
+0.44.12-r06
+ - updated Armok Vision to 0.20.2
+ - updated TwbT to 6.61
+ - added Announcement Window (1.2b)
+ - updated CLA graphics to 44.xx-v26
+
+0.44.12-r05
+ - updated DFHack to 0.44.12-r2
+ - updated TwbT to 6.57
+
+0.44.12-r04
+ - updated Dwarf Therapist to v41.0.3
+ - updated TwbT to 6.55
+ - updated Legends Viewer to 1.19.10
+ - updated PyLNP to 0.13b
+
+0.44.12-r03
+ - updated Dwarf Therapist to v41.0.2
+ - updated PyLNP to 0.13a
+ - updated TwbT to 6.54
+ - fixed bad install of TwbT graphics (thanks to taleden for reporting it)
+
+0.44.12-r02
+ - fixed Dwarf Therapist (use 64bit build)
+
+0.44.12-r01
+ - updated Dwarf Fortress
+ - updated DFHack to 0.44.12-r1
+ - updated TwbT to v6.53
+ - updated Dwarf Therapist to v40.1.2
+ - updated Legends Viewer to 1.19.09
+ - updated graphics: Ironhand, Obsidian, Spacefox, Phoebus
+
 0.44.10-r03
  - actually, really, truly does the graphics enhancements (TwbT required)
    Many thanks to Jecowa and the others who helped.  Today has *not* been my day...

@@ -3,8 +3,6 @@
 This project is NOT an actual pack, or intended for public use.
 [See here](http://www.bay12forums.com/smf/index.php?topic=126076) for that.
 
-See the [hourly build log here](http://peridexiserrant.neocities.org/starter-pack.log.txt).
-
 There is *no support* for using this tool - it is designed for my own use,
 and released in the hope that others might find it useful.
 Bug reports are most welcome; feature requests are not
@@ -27,7 +25,7 @@ For anyone using these tools to assemble their own pack:
   applies to all the code, and to the code *only*.
 
   Some files in `./base/` are mine; some are by other people in
-  the Dwarf Fortress community.  Treat this files as if they are
+  the Dwarf Fortress community.  Treat these files as if they are
   under an informal version of the [CC-BY-SA license](https://creativecommons.org/licenses/by-sa/4.0).
 
   Any outputs you produce with this software are entirely your
@@ -45,6 +43,3 @@ For anyone using these tools to assemble their own pack:
   (or when building for windows on another OS; tested on Debian).
   If you are interested in helping support macOS or Linux, please
   get in touch with my handle at gmail.
-
-
-
